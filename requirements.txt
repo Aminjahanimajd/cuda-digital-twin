@@ -1,0 +1,2 @@
+cupy-cuda13x[ctk]>=14,<15
+menlo-robot-sdk[livekit]==0.3.0

@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.menlo-key
+.graphify_input/
+graphify-out/
+main.dat
